@@ -1,3 +1,3 @@
 # AMP
 
-A Novel Evolutionary Status Guided Hyper-heuristic Algorithm for Continuous Optimization
+A Novel Adjacent Matrix-based Probabilistic Selection Mechanism for Differential Evolution
