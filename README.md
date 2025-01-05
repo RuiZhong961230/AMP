@@ -7,7 +7,7 @@ This paper proposes a novel selection mechanism for differential evolution (DE) 
 ## Citation
 @article{Zhong:24,  
 title={A Novel Adjacent Matrix-based Probabilistic Selection Mechanism for Differential Evolution},  
-author={Rui Zhong, Shilong Zhang, Yujun Zhang, and Jun Yu},  
+author={Rui Zhong and Shilong Zhang and Yujun Zhang and Jun Yu},  
 journal={Cluster Computing},  
 pages={},  
 year={2025},  
