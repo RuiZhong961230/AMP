@@ -17,4 +17,7 @@ doi={https://doi.org/10.1007/s10586-024-04915-4 }
 }  
 
 ## Datasets and Libraries
-CEC benchmarks are provided by the opfunu library.
+CEC benchmarks are provided by opfunu==1.0.0 library.
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
